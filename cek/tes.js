@@ -1,0 +1,11 @@
+//const judul = document.getElementById('judul');
+//judul.style.color = 'brown';
+//judul.style.backgroundColor = 'blue';
+//judul.style.fontSize = '45px';
+//judul.style.borderRadius = '40px';
+//judul.style.textAlign = 'center';
+//const p = document.getElementsByTagName('p');
+//p[0].style.backgroundColor = 'pink';
+//p[1].style.backgroundColor = 'grey';
+//p[2].style.backgroundColor = 'green';
+//p[3].style.backgroundColor = 'silver';

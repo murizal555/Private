@@ -1,0 +1,2 @@
+alert('semua');
+alert('pagii');
